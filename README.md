@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Мои проекты
+
+- [**Расписание для ВУЗа**](https://github.com/MieSlie/schedule_pub) — WEB-приложения, которое автоматизирует процесс парсинга Excel-файлов и предоставляет каждому пользователю персонализированный доступ к расписанию через интуитивно понятный интерфейс.
+
 <!--
 **MieSlie/MieSlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
